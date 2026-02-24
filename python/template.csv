@@ -1,1 +1,2 @@
-Label Text,Font Size,Box Size,Output File Name
+Label Text,Font Size,Show Screw Icon,Output File Name
+Example Label,12,True,example_label.stl
